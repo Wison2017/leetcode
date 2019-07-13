@@ -2,79 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e9ca7c2-2f55-4dc0-b447-f3bb313030f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/37.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/3sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/BestTimeToSell121.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/121.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/ClimbStairs70.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/70.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/CountBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/338.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/GenerateParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/HammingWeight191.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/191.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/ImplementQueueUsingStacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/232.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/ImplementStackUsingQueues.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/225.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/ImplementTrie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/208.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/KthLargestElementInAStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/703.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/LevelOrder102.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/102.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/141.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/LinkedListCycleII.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/142.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/Longest_Substring_Without_Repeating_Characters.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/MajorityElement169.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/169.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/MaxDepth104.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/104.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/MaxProductSubarray152.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/152.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/MinDepth111.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/111.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/NQueens51.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/51.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/Pow50.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/PowerofTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/231.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/206.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/ReverseNodesInK-Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/SlidingWindowMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/239.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/SolveSuduku37.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/37.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/SolveSuduku37.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/SwapNodesInPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/ValidAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/242.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/ValidSuduku36.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/ValidateBinarySearchTree98.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/98.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/WordSearch212.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/212.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/WordSearch79.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/79.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/squareOfx69.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/69.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddTwoNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestTimetoSell121.py" beforeDir="false" afterPath="$PROJECT_DIR$/121.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BitCounts.py" beforeDir="false" afterPath="$PROJECT_DIR$/338.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClimbStairs70.py" beforeDir="false" afterPath="$PROJECT_DIR$/70.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GenerateParenthesis22.py" beforeDir="false" afterPath="$PROJECT_DIR$/22.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HammingWeight191.py" beforeDir="false" afterPath="$PROJECT_DIR$/191.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ImplementStackUsingQueues.py" beforeDir="false" afterPath="$PROJECT_DIR$/225.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ImplementTrie.py" beforeDir="false" afterPath="$PROJECT_DIR$/208.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ImplementsQueueUsingStacks.py" beforeDir="false" afterPath="$PROJECT_DIR$/232.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KthLargestElementInAStream.py" beforeDir="false" afterPath="$PROJECT_DIR$/703.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LevelOrder102.py" beforeDir="false" afterPath="$PROJECT_DIR$/102.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedListCycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/141.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedListCycleII.py" beforeDir="false" afterPath="$PROJECT_DIR$/142.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Longest_Substring_Without_Repeating_Characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MajorityElement169.py" beforeDir="false" afterPath="$PROJECT_DIR$/169.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MaxDepth.py" beforeDir="false" afterPath="$PROJECT_DIR$/104.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MaxProductSubarray152.py" beforeDir="false" afterPath="$PROJECT_DIR$/152.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NQueens.py" beforeDir="false" afterPath="$PROJECT_DIR$/51.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NQueensII52.py" beforeDir="false" afterPath="$PROJECT_DIR$/52.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NQueensII52_bits.py" beforeDir="false" afterPath="$PROJECT_DIR$/52_bits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PowerofTwo.py" beforeDir="false" afterPath="$PROJECT_DIR$/231.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReverseInteger.py" beforeDir="false" afterPath="$PROJECT_DIR$/7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReverseLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/206.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReverseNodesInK-Group.py" beforeDir="false" afterPath="$PROJECT_DIR$/25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlidingWindowMaximum.py" beforeDir="false" afterPath="$PROJECT_DIR$/239.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/120.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TwoSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ValidAnagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/242.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ValidParentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/20.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ValidShuDuKu.py" beforeDir="false" afterPath="$PROJECT_DIR$/36.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ValidateBinarySearchTree98.py" beforeDir="false" afterPath="$PROJECT_DIR$/98.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WordSearch79.py" beforeDir="false" afterPath="$PROJECT_DIR$/79.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WordSearchII.py" beforeDir="false" afterPath="$PROJECT_DIR$/212.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/squareOfx69.py" beforeDir="false" afterPath="$PROJECT_DIR$/69.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/309.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/714.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/BuySellStocks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -130,9 +63,18 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MinDepth.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/111.py">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BuySellStocks.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -208,15 +150,16 @@
       <option name="presentableId" value="Default" />
       <updated>1562940538057</updated>
       <workItem from="1562940539327" duration="718000" />
-      <workItem from="1562943477258" duration="1002000" />
+      <workItem from="1562943477258" duration="1699000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1720000" />
+    <option name="totallyTimeSpent" value="2417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22246066" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -279,8 +222,15 @@
     <entry file="file://$PROJECT_DIR$/104.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/MinDepth.py">
+    <entry file="file://$PROJECT_DIR$/111.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuySellStocks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
