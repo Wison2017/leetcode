@@ -12,3 +12,9 @@ class Solution:
         for y in range(0, n):
             if y not in board and x+y not in xy_sum and x-y not in xy_sub:
                 self.DFS(xy_sub + [x-y], xy_sum + [x+y], board+[y], n)
+
+for i in range(8):
+    list = []
+    for j in range(8):
+        list.append(j-i)
+    print(list)

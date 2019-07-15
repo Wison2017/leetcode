@@ -20,6 +20,7 @@ class Solution {
         int time = 2;
         int[][] DP = new int[time+1][2];
         DP[0][0] = 0;
+        DP[0][1] = -prices[0];
         DP[1][1] = -prices[0];
         DP[2][1] = -prices[0];
         for (int i = 1; i < prices.length; i++) {
