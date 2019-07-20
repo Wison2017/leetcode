@@ -7,6 +7,7 @@ public class ListNode{
 }
 
 class Solution{
+	// 迭代
     public ListNode reverseList(ListNode head){
         ListNode pre = null;
 	ListNode cur = head;
@@ -19,4 +20,14 @@ class Solution{
 	}
 	return pre;
     }
+
+    //迭代
+//	public ListNode reverseList(ListNode head) {
+//		if (head == null || head.next == null)
+//			return head;
+//		ListNode new_head = reverseList(head.next);
+//		head.next.next = head;
+//		head.next = null;
+//		return new_head;
+//	}
 }
