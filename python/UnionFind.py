@@ -4,6 +4,6 @@ class UnionFind:
 
     def find(self, i):
         pass
-    
+
     def union(self, i, j):
         pass
