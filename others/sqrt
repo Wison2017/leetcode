@@ -1,0 +1,11 @@
+public double sqrt(double x) {
+    double low = 0;
+    double high = x;
+    double mid = high / 2;
+    while math.abs((mid * mid - x )) > 0.000001:
+        if (mid * mid > x) high = mid;
+        else low = mid;
+        mid = (low + high) / 2;
+    return mid;
+}
+

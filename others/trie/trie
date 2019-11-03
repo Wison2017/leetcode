@@ -1,0 +1,40 @@
+public class Trie {
+	public class TrieNode {
+	    private char data;
+	    private TrieNode[] children = new TrieNode[26];
+	    private boolean isEndingCode = false;
+	    public TrieNode(char data) {
+	        this.data = data;
+	    } 
+	}
+
+	private TrieNode root = new TrieNode('\');
+
+	public void insert(char[] text) {
+	    TrieNode p = this.root;
+	    for (int i = 0; i < text.length; i++) {
+	        int index = (int)(text[i] - 'a');
+	        if (p.children[index] == null) {
+	            TrieNode newNode = new TrieNode(text[i]);
+	            p.children[index] = newNode;
+	            p = p.children[index];
+	        }
+	    }
+	    p.isEndingCode = true;
+	}
+
+	public boolean find(char[] pattern) {
+        TrieNode p = this.root;
+        for (int i = 0; i < pattern.length; i++) {
+            int index = (int)(pattern[i] - 'a');
+            if (p.children[index] == null) {
+                return false;
+            }
+            p = p.children[index];
+        }
+        if (p.isEndingCode == true) {
+            return true;
+        }
+        return false;
+	}
+}

@@ -1,0 +1,28 @@
+public void bubbleSort(int[] a, int n) {
+    if (n <= 1) return;
+    for (int i = 0; i < n; i++) {
+        boolean flag = false;
+        for (int j = 0; j < n - i - 1; j++) {
+            if (a[j] < a[j + 1]) {
+                int temp = a[j + 1];
+                a[j + 1] = a[j];
+                a[j] = temp;
+                flag = true;
+            }
+        }
+        if (!flag) break;
+    }
+}
+def bubble_sort(list, n):
+    if n <= 1: return
+    for i in range(n):
+        flag = False
+        for j in range(n - i - 1):
+            if list[j] < list[j + 1]:
+                temp = list[j]
+                list[j] = list[j+1]
+                list[j+1] = temp
+                flag = True
+        if not flag:
+            break
+

@@ -1,0 +1,37 @@
+public void delete(int data) {
+    Node p = tree;
+    Node pp = null;
+    while (p != null && p.data != data) {
+        pp = p;
+        if (data > p.data)
+            p = p.right;
+        else
+            p = p.left;
+    }
+    if (p == null) return;
+    if (p.left != null && p.right != null) {
+        Node minP = p.right;
+        Node minPP = p;
+        while (minP.left != null) {
+            minPP = minP;
+            minP = minP.left;
+        }
+        p.data = minP.data;
+        p = minP;
+        pp = minPP;
+    }
+    Node child;
+    if (p.left != null)
+        child = p.left;
+    else if (p.right != null)
+        child = p.right;
+    else
+        child = null;
+    if (pp == null) 
+        tree = child;
+    else if (pp.left == p)
+        pp.left = child;
+    else
+        pp.right = child; 
+}
+

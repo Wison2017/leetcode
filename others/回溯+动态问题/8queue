@@ -1,0 +1,47 @@
+int[] queue = new int[8];
+
+public void cal8queues(int row) {
+	if (row == 8) {
+	    printQueue(queue);
+	    return;
+	}
+	for (int column = 0; column < 8; column++) {
+	    if (isOK(row, column)) {
+	        queue[row] = column;
+	    }
+	    cal8queues(row + 1);
+	}
+}
+
+private boolean isOK(int row, int column) {
+	int leftup = column - 1; int rightup = column + 1;
+	for (int i = row - 1; i >= 0; i--) {
+	    if (queue[i] == column) return false;
+	    if (leftup >= 0) {
+	        if (queue[i] == leftup)
+	            return false;
+	    }
+	    if (rightup < 8) {
+	        if (queue[i] == rightup) {
+	            return false;
+	        }
+	    }
+	    leftup--; rightup++;
+	}
+	return true;
+}
+
+private void printQueue(int[] result) {
+	int row = 0; int column = 0;
+	for (int row = 0; row < 8; row++) {
+	    for (int column = 0; column < 8; column++) {
+	        if (queue[row] == column)
+	            System.out.println("Q ");
+	        else
+	            System.out.println("* ")
+	    }
+	    System.out.println();
+	}
+	System.out.println();
+}
+
